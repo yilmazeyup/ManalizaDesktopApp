@@ -1,0 +1,22 @@
+DRIVER=SQLite3 ODBC Driver;Database=" & App.Path & "\Database\kantar_db;LongNames=0;Timeout=1000;NoTXN=0;SyncPragma=NORMAL;StepAPI=0
+3
+9600,N,8,1
+1
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 4e622136-970d-434f-940a-9719004f5271 --autologin  --hidegui --run Repository --reportgui InsertInterface " 
+ERTEPE MADENCÝLÝK ALEMDAÐ VD: 3730035296
+AVCI KORU MEVKÝÝ ÞÝLE-ÝST.
+0216 415 83 50
+Ertepe1
+ULAÞ AKBAÐ
+HÝDAYET DURMUÞOÐLU
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 4e622136-970d-434f-940a-9719004f5271 --autologin  --hidegui --run Repository --reportgui InsertInterface " 
+1. satýr=Baðlantý dizesi, 
+2. satýr port no, 
+3. satýr settings, 
+4.satýr RTheshold, 
+5.satýr dataruler ,
+6-7-8. satýr Yükleme fiþi baþlýklar. 
+9.satýr þantiye adý. 
+10.satýr Sevkiyat sorumlusu
+11.Satýr
+12.Satýr Raportör Dataruler baðlantýsý

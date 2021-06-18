@@ -1,0 +1,28 @@
+DRIVER=SQLite3 ODBC Driver;Database=" & App.Path & "\Database\Ergoren_kantar_db;LongNames=0;Timeout=1000;NoTXN=0;SyncPragma=NORMAL;StepAPI=0
+5
+9600,N,8,1
+1
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 95f9093b-e6e5-4e56-bf25-b5770be013e7 --autologin  --autook --run Repository --reportgui InsertInterface " 
+ERGÖREN MADENCÝLÝK ÜMRANÝYE VD: 3560022437
+SÜLÜKLÜ GÖL MEVKÝÝ ÞÝLE-ÝST.
+0216 415 83 50
+Ergören
+Kemal Akdað
+Kadir Çoban
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 58aed05f-b088-4afc-94b6-d0f816be6aeb --autologin  --reportgui DrRaporForm "
+C:\Dr\MnKantar_Ergoren\Database\Ergoren_kantar_db 
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 58aed05f-b088-4afc-94b6-d0f816be6aeb --autologin  --reportgui ReportInterface "
+"C:\DRSuite\DataRuler\DataRulerNET.exe --openrepository 58aed05f-b088-4afc-94b6-d0f816be6aeb --autologin  --run ManuelFirma --reportgui Insert "
+1. satýr=Baðlantý dizesi, 
+2. satýr port no, 
+3. satýr settings, 
+4.satýr RTheshold, 
+5.satýr dataruler ,
+6-7-8. satýr Yükleme fiþi baþlýklar. 
+9.satýr þantiye adý. 
+10.satýr Sevkiyat sorumlusu
+11.Satýr
+12.Satýr Raportör Dataruler baðlantýsý
+13. Kantar Veritabaný
+14. Dataruler Veri Havuzu Yönetimi
+15. Master tablo (müþteri) guncelleme
